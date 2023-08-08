@@ -1,0 +1,4 @@
+selenium
+pytest
+pytest-html
+xlrd==1.2.0
